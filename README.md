@@ -98,7 +98,7 @@ podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás
 
  <section id="Escritores">
 <a href="Escritores.html">
- <p style="text-align: center;"><font color="black"><font size=50>Escritores</p></font></a> 
+<p style="text-align: center;"><font color="black"><font size=50>Escritores</font> 
 </a href>
 
  <p style="text-align: center;">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
@@ -108,14 +108,11 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 <img src="nene.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
 </div>
 
- </section>
-    <section id="Historia">
+
+ <section id="Historia">
 <a href="Historia.html">
-
-
-<h2><p style="text-align: center;">Historia</h2></p>
-</a href>
-
+<p style="text-align: center;"><font color="black"><font size=50>Historia</font> 
+    
  <p style="text-align: center;">Podrás conocer leyendas nacidas en nuestro país <br>  y lugares turísticos que embellecen y forman parte <br> de la cultura guatemalteca.
 </p>
 <div style="text-align: left;"> 
@@ -125,10 +122,7 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
  </section>
     <section id="Arquitectura">
 <a href="Arquitectura.html">
-
-
- <h2><p style="text-align: center;">Arquitectura</h2></p>
-</a href>
+<p style="text-align: center;"><font color="black"><font size=50>Arquitectura</font> 
 
  <p style="text-align: center;">En este apartado podrás conocer más sobre hermosas edificaciones <br>  que han sido construidas en Guatemala, <br>  algunas que aún se pueden apreciar y también <br>  otras que ya han sido derrumbadas pero que en ellas <br>  contenían historias maravillosas.</p>
 
@@ -137,83 +131,4 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
  </body>
 </html>
 
-<h2><p style="text-align: center;">¡Bienvenido a nuestro museo!</h2></p>
-<p style="text-align: center;">
-      <b>¿Quiénes somos?</b><br>
-<br>
-Somos estudiantes del colegio Ciencias Comerciales Sanarate,<br>
-cursamos el grado de 4.to bachillerato en ciencias y letras con orientación en computación,<br>
-nuestros nombres son:<br>
-Aílin Salazar y Jarod Chén.<br>
-<br>
-A continuación nos complace presentarte una experiencia única,<br>
- que combina la riqueza de la historia y el arte. <br>
-Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cultural sin precedentes. <br>
-<br>
-¡Esperamos que disfrutes de tu visita!
-</p>
 
-
-<div style="text-align: right;"> 
-<img src="lio.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
-</div>
-
-</section>
-    <section id="Artistas">
-<a href="Artistas.html">
-
-
-   <h2><p style="text-align: center;">Artistas</h2></p>
-</a href>
-
- <p style="text-align: center;">En este apartado se podrán observar pintores y músicos,<br>
-podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p>
-
-<div style="text-align: left;"> 
-<img src="niño.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
-</div>
-
- </section>
-    </section>
-    <section id="Escritores">
-<a href="Escritores.html">
-
-
- <h2><p style="text-align: center;">Escritores</h2></p>
-</a href>
-
-  <p style="text-align: center;">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
-acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>creados por la joven Aílin Salazar.</p>
-   
-<div style="text-align: right;"> 
-<img src="nene.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
-</div>
-
- </section>
-    <section id="Historia">
-<a href="Historia.html">
-
-
-<h2><p style="text-align: center;">Historia</h2></p>
-</a href>
-
-<p style="text-align: center;">Podrás conocer leyendas nacidas en nuestro país <br>  y lugares turísticos que embellecen y forman parte <br> de la cultura guatemalteca.
-</p>
-<div style="text-align: left;"> 
-<img src="bandera.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
-</div>
-
- </section>
-    <section id="Arquitectura">
-<a href="Arquitectura.html">
-
-
-<h2><p style="text-align: center;">Arquitectura</h2></p>
-</a href>
-
- <p style="text-align: center;">En este apartado podrás conocer más sobre hermosas edificaciones <br>  que han sido construidas en Guatemala, <br>  algunas que aún se pueden apreciar y también <br>  otras que ya han sido derrumbadas pero que en ellas <br>  contenían historias maravillosas.</p>
-
-
- </section>
-    </body>
-</html>

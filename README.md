@@ -6,7 +6,7 @@
     <title>Museo de los Sueños Artísticos Guatemaltecos</title>
     <style>
         body {
-            font-family: century gothic;
+            font-family: "century gothic";
             margin: 0;
             padding: 0;
         }

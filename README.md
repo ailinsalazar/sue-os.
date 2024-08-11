@@ -85,8 +85,7 @@ Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cu
 <img src="lio.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
 </div>
 
-
-    <section id="Artistas">
+ <section id="Artistas">
 <a href="Artistas.html">
 
  <h2><p style="text-align: center;">Artistas</h2></p>

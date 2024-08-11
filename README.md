@@ -87,10 +87,10 @@ Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cu
 
  <section id="Artistas">
 <a href="Artistas.html">
- <p style="text-align: center;"><font color="black"><font size=50>font-family: century gothic>Artistas</font>
+ <p style="text-align: center;"><font color="black"><font size=50><font-family: century gothic>Artistas</font>
 
-<p style="text-align: center;">En este apartado se podrán observar pintores y músicos,<br>
-podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p>
+<p style="text-align: center;"><font-family: century gothic>En este apartado se podrán observar pintores y músicos,<br>
+podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p></font>
 
 <div style="text-align: left;"> 
 <img src="niño.jpg" alt="Mi imagen alineada a la derecha" width=150 height>

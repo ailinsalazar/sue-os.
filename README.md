@@ -88,8 +88,8 @@ Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cu
  <section id="Artistas">
 <a href="Artistas.html">
 
- <h2><p style="text-align: center;">Artistas</h2></p>
-</a href>
+ <p style="text-align: center;">Artistas</p>
+
 
 <p style="text-align: center;">En este apartado se podrán observar pintores y músicos,<br>
 podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p>

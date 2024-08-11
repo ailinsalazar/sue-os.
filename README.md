@@ -99,7 +99,6 @@ podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás
  <section id="Escritores">
 <a href="Escritores.html">
 <p style="text-align: center;"><font color="black"><font size=50>Escritores</font> 
-</a href>
 
  <p style="text-align: center;">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
 acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>creados por la joven Aílin Salazar.</p>
@@ -107,7 +106,6 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 <div style="text-align: right;"> 
 <img src="nene.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
 </div>
-
 
  <section id="Historia">
 <a href="Historia.html">
@@ -119,16 +117,12 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 <img src="bandera.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
 </div>
 
- </section>
-    <section id="Arquitectura">
+<section id="Arquitectura">
 <a href="Arquitectura.html">
 <p style="text-align: center;"><font color="black"><font size=50>Arquitectura</font> 
 
  <p style="text-align: center;">En este apartado podrás conocer más sobre hermosas edificaciones <br>  que han sido construidas en Guatemala, <br>  algunas que aún se pueden apreciar y también <br>  otras que ya han sido derrumbadas pero que en ellas <br>  contenían historias maravillosas.</p>
 
 
-</section>
- </body>
-</html>
 
 

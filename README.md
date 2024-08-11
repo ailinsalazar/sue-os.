@@ -87,7 +87,7 @@ Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cu
 
  <section id="Artistas">
 <a href="Artistas.html">
- <p style="text-align: center;"><h2><font color="black"><font size=50>Artistas</h2></p></font></a> 
+ <p style="text-align: center;"><font color="black"><font size=50>Artistas</p></font></a> 
 
 <p style="text-align: center;">En este apartado se podrán observar pintores y músicos,<br>
 podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p>
@@ -98,7 +98,7 @@ podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás
 
  <section id="Escritores">
 <a href="Escritores.html">
- <h2><p style="text-align: center;">Escritores</h2></p>
+ <p style="text-align: center;"><font color="black"><font size=50>Escritores</p></font></a> 
 </a href>
 
  <p style="text-align: center;">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>

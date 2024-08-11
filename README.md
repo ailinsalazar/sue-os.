@@ -64,7 +64,7 @@
 <img src="quetzal.jpg" alt="Mi imagen alineada a la derecha" width=200 height>
 </div>
 
-<h2><p style="text-align: center;">¡Bienvenido a nuestro museo!</h2></p>
+<h2><p style="text-align: center;">¡Bienvenido a nuestro museo!</h></p>
 <p style="text-align: center;">
       <b>¿Quiénes somos?</b><br>
 <br>

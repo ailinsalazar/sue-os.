@@ -48,7 +48,7 @@
 </head>
 <body bgcolor="white">
     <header>
-        <font face="Kristen ITC" color="purple">
+        <font face="Kristen ITC" size= 10 color="black">
          <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1> 
         </font>
     </header>

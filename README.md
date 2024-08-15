@@ -53,7 +53,7 @@
         </font>
     </header>
     <nav>
-         <font face="Century Ghotic" size= 6 color="black">
+         <font face="Century Gothic" size= 6 color="black">
         <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>
         <a href="#Artistas"><p style="text-align: center;">Artistas</p></a>
         <a href="#Escritores"><p style="text-align: center;">Escritores</p></a>
@@ -68,7 +68,7 @@
 <img src="quetzal.jpg" alt="Mi imagen alineada a la derecha" width=200 height>
 </div>
 
-<h2><p style="text-align: center;"> ¡Bienvenido a nuestro museo!</p>
+<h2><p style="text-align: center;">  <font face="Century Gothic" size= 6 color="black">¡Bienvenido a nuestro museo!</p>
 <p style="text-align: center;">
       <b>¿Quiénes somos?</b><br>
 <br>
@@ -82,6 +82,7 @@ A continuación nos complace presentarte una experiencia única,<br>
 Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cultural sin precedentes. <br>
 <br>
 ¡Esperamos que disfrutes de tu visita!
+     </font>
 </p>
 
 

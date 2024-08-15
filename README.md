@@ -48,6 +48,7 @@
 </head>
 <body bgcolor="white">
     <header>
+        <font face="Kristen ITC" color="purple">
          <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1> 
     </header>
     <nav>
@@ -64,7 +65,7 @@
 <img src="quetzal.jpg" alt="Mi imagen alineada a la derecha" width=200 height>
 </div>
 
-<h2><p style="text-align: center;">¡Bienvenido a nuestro museo!</p>
+<h2><p style="text-align: center;"> ¡Bienvenido a nuestro museo!</p>
 <p style="text-align: center;">
       <b>¿Quiénes somos?</b><br>
 <br>

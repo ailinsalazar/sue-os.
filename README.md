@@ -53,11 +53,13 @@
         </font>
     </header>
     <nav>
+         <font face="Century Ghotic" color="black">
         <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>
         <a href="#Artistas"><p style="text-align: center;">Artistas</p></a>
         <a href="#Escritores"><p style="text-align: center;">Escritores</p></a>
         <a href="#Historia"><p style="text-align: center;">Historia</p></a>
 <a href="#Arquitectura"><p style="text-align: center;">Arquitectura</p></a>
+         </font>
     </nav>
 
    <section id="Inicio">

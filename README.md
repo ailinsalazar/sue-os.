@@ -91,9 +91,9 @@ Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cu
 
  <section id="Artistas">
 <a href="Artistas.html">
- <p style="text-align: center;"><font color="black"><font size=50> <font face="Kristen ITC">Artistas</font>
+ <p style="text-align: center;"><font color="black"><font size=40> <font face="Kristen ITC">Artistas</font>
 
-<p style="text-align: center;">En este apartado se podrán observar pintores y músicos,<br>
+<p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">En este apartado se podrán observar pintores y músicos,<br>
 podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p></font>
 
 <div style="text-align: left;"> 
@@ -102,9 +102,9 @@ podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás
 
  <section id="Escritores">
 <a href="Escritores.html">
-<p style="text-align: center;"><font color="black"><font size=50><font face="Kristen ITC">Escritores</font> 
+<p style="text-align: center;"><font color="black"><font size=40><font face="Kristen ITC">Escritores</font> 
 
- <p style="text-align: center;"> <font face="Century Gothic" size= 4 color="black">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
+ <p style="text-align: center;"> <font face="Century Gothic" size= 6 color="black">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
 acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>creados por la joven Aílin Salazar.</font></p>
    
 <div style="text-align: right;"> 
@@ -113,9 +113,9 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 
  <section id="Historia">
 <a href="Historia.html">
-<p style="text-align: center;"><font color="black"><font size=50><font face="Kristen ITC">Historia</font> 
+<p style="text-align: center;"><font color="black"><font size=40><font face="Kristen ITC">Historia</font> 
     
- <p style="text-align: center;">Podrás conocer leyendas nacidas en nuestro país <br>  y lugares turísticos que embellecen y forman parte <br> de la cultura guatemalteca.
+ <p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">Podrás conocer leyendas nacidas en nuestro país <br>  y lugares turísticos que embellecen y forman parte <br> de la cultura guatemalteca.</font>
 </p>
 <div style="text-align: left;"> 
 <img src="bandera.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
@@ -123,9 +123,9 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 
 <section id="Arquitectura">
 <a href="Arquitectura.html">
-<p style="text-align: center;"><font color="black"><font size=50><font face="Kristen ITC">Arquitectura</font> 
+<p style="text-align: center;"><font color="black"><font size=40><font face="Kristen ITC">Arquitectura</font> 
 
- <p style="text-align: center;">En este apartado podrás conocer más sobre hermosas edificaciones <br>  que han sido construidas en Guatemala, <br>  algunas que aún se pueden apreciar y también <br>  otras que ya han sido derrumbadas pero que en ellas <br>  contenían historias maravillosas.</p>
+ <p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">En este apartado podrás conocer más sobre hermosas edificaciones <br>  que han sido construidas en Guatemala, <br>  algunas que aún se pueden apreciar y también <br>  otras que ya han sido derrumbadas pero que en ellas <br>  contenían historias maravillosas.</font></p>
 
 
 

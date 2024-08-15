@@ -104,8 +104,8 @@ podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás
 <a href="Escritores.html">
 <p style="text-align: center;"><font color="black"><font size=50><font face="Kristen ITC">Escritores</font> 
 
- <p style="text-align: center;">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
-acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>creados por la joven Aílin Salazar.</p>
+ <p style="text-align: center;"> <font face="Century Gothic" size= 4 color="black">Podrás aprender sobre novelistas pertenecientes al país de la eterna primavera, <br>
+acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>creados por la joven Aílin Salazar.</font></p>
    
 <div style="text-align: right;"> 
 <img src="nene.jpg" alt="Mi imagen alineada a la derecha" width=150 height>

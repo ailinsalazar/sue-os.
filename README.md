@@ -94,7 +94,7 @@ Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cu
  <p style="text-align: center;"><font color="black"><font size=40> <font face="Kristen ITC">Artistas</font>
 
 <p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">En este apartado se podrán observar pintores y músicos,<br>
-podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></p></font>
+podrás conocer algunos datos curiosos sobre ellos, <br>de igual forma, tendrás la oportunidad de<br> apreciar algunas de sus obras. <br></font></p>
 
 <div style="text-align: left;"> 
 <img src="niño.jpg" alt="Mi imagen alineada a la derecha" width=150 height>

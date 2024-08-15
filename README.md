@@ -50,6 +50,7 @@
     <header>
         <font face="Kristen ITC" color="purple">
          <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1> 
+        </font>
     </header>
     <nav>
         <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>

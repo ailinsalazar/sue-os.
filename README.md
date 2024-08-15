@@ -44,8 +44,7 @@
             width: 100%;
             bottom: 0;
         }
-    </style>
-</head>
+ 
 <body bgcolor="white">
     <header>
         <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1>

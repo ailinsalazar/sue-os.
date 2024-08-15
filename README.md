@@ -82,9 +82,8 @@ A continuación nos complace presentarte una experiencia única,<br>
 Sumérgete en nuestro museo digital y déjate llevar por un viaje educativo y cultural sin precedentes. <br>
 <br>
 ¡Esperamos que disfrutes de tu visita!
-     </font>
 </p>
-
+</font> 
 
 <div style="text-align: right;"> 
 <img src="lio.jpg" alt="Mi imagen alineada a la derecha" width=150 height>

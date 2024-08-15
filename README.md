@@ -46,10 +46,9 @@
         }
 </style>
 </head>
-<body bgcolor="white">
+<body bgcolor="white" font-family: "Kristen ITC">
     <header>
-        body {
-       font-family: "Kristen ITC", sans-serif; <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1> }
+         <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1> 
     </header>
     <nav>
         <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>

@@ -53,7 +53,7 @@
         </font>
     </header>
     <nav>
-         <font face="Century Ghotic" size= 4 color="black">
+         <font face="Century Ghotic" size= 8 color="black">
         <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>
         <a href="#Artistas"><p style="text-align: center;">Artistas</p></a>
         <a href="#Escritores"><p style="text-align: center;">Escritores</p></a>

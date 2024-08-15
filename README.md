@@ -68,7 +68,7 @@
 <img src="quetzal.jpg" alt="Mi imagen alineada a la derecha" width=200 height>
 </div>
 
-<h2><p style="text-align: center;">  <font face="Century Gothic" size= 4 color="black">¡Bienvenido a nuestro museo!</p>
+<h2><p style="text-align: center;">  <font face="Century Gothic" size= 4 color="black">¡Bienvenido a nuestro museo!
 <p style="text-align: center;">
       <b>¿Quiénes somos?</b><br>
 <br>

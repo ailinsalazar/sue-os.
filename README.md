@@ -49,7 +49,7 @@
 <body bgcolor="white">
     <header>
         <font face="Kristen ITC" size= 4 color="black">
-         <h1>Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</h1> 
+         <h1><marquee behavior="alternate">Bienvenidos al Museo de los Sueños Artísticos Guatemaltecos</marquee></h1> 
         </font>
     </header>
     <nav>

@@ -129,16 +129,19 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 
  <p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">En este apartado podrás conocer más sobre hermosas edificaciones <br>  que han sido construidas en Guatemala, <br>  algunas que aún se pueden apreciar y también <br>  otras que ya han sido derrumbadas pero que en ellas <br>  contenían historias maravillosas.</font></p>
 
+
+<div style="text-align: right;"> 
+<img src="ver.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
+</div>
+
+
 <section id="Programas">
 <a href="programas.html">
 <p style="text-align: center;"><font color="black"><font size=40><font face="Kristen ITC">Programas</font> 
 
  <p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">Podrás conocer sobre aplicaciones y juegos que han sido desarrolladas<br>  por programadores guatemaltecos.</font></p>
 
-   
-<div style="text-align: right;"> 
-<img src="ver.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
-</div>
+
 
 
 

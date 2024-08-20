@@ -59,6 +59,8 @@
         <a href="#Escritores"><p style="text-align: center;">Escritores</p></a>
         <a href="#Historia"><p style="text-align: center;">Historia</p></a>
 <a href="#Arquitectura"><p style="text-align: center;">Arquitectura</p></a>
+             <a href="#Programas"><p style="text-align: center;">Programas</p></a>
+
          </font>
     </nav>
 
@@ -132,6 +134,11 @@ acompañado de ello, podrás sentir muy de cerca algunos de los escritos  <br>cr
 <p style="text-align: center;"><font color="black"><font size=40><font face="Kristen ITC">Programas</font> 
 
  <p style="text-align: center;"><font face="Century Gothic" size= 6 color="black">Podrás conocer sobre aplicaciones y juegos que han sido desarrolladas<br>  por programadores guatemaltecos.</font></p>
+
+   
+<div style="text-align: right;"> 
+<img src="ver.jpg" alt="Mi imagen alineada a la derecha" width=150 height>
+</div>
 
 
 
